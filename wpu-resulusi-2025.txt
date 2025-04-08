@@ -4,3 +4,6 @@ WPu Resulosi
 resolusi baru 
 membuat toko dengan aplikasi sendiri tenag apliasi POS
 
+resolusi tambahan pertama
+membuat aplikasi mobile pos di hp
+
