@@ -5,5 +5,8 @@ resolusi baru
 membuat toko dengan aplikasi sendiri tenag apliasi POS
 
 resolusi tambahan pertama
-membuat aplikasi mobile pos di hp
+membuat aplikasi mobile pos di TABLET
+
+membuat job time schedule
+
 
