@@ -4,4 +4,8 @@ WPu Resulosi
 resolusi baru 
 membuat toko dengan aplikasi sendiri tenag apliasi POS
 
-menambahkan aplikasi mobile di Aplikasi PostMan
+
+resolusi tambahan pertama
+membuat aplikasi mobile pos di TABLET
+
+membuat job time schedule
